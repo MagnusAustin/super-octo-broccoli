@@ -1,0 +1,63 @@
+Schizophrenia,Positive Symptoms of Schizophrenia,Negative Symptoms of Schizophrenia,Other Symptoms of Schizophrenia,Sub-types of Schizophrenia
+Positive Symptoms of Schizophrenia,Delusions,Hallucinations,Disorganized Speech,Catatonic Behavior
+Delusions,Types of Delusions
+Types of Delusions,Persecutory Delusions,Delusions Reference,Grandiose Delusions,Delusion of Thought Insertions
+Hallucinations,Types of Hallucinations
+Types of Hallucinations,Auditory Hallucinations,Visual Hallucinations,Tactile Hallucinations,Somatic Hallucinations
+Somatic Hallucinations,Something happening from within
+Negative Symptoms of Schizophrenia,Flat Affect,Avolition,Alogia
+Alogia,Meaning of Alogia
+Meaning of Alogia,Poverty of Speech
+Other Symptoms of Schizophrenia,Inappropriate Affect,Anhedonia,Impaired Social Skills
+Sub-types of Schizophrenia,Paranoid Schizophrenia,Disorganized Schizophrenia,Catatonic Schizophrenia,Undifferentiated Schizophrenia,Residual Schizophrenia
+Other Psychotic Disorders in the Schizophrenia Spectrum Disorders,Schizophreniform Disorder,Schizoaffective Disorder,Delusional Disorder,Shared Psychotic Disorder
+Delusional Disorder,Persecutory Delusion,Grandiose Delusion,Jealous Type of Delusion,Erotomanic Type of Delusion,Somatic Delusion
+Risks and Casual Factors of Schizophrenia,Genetic Factors,Neurodevelopmental Perspective,Neurochemistry,Structural Abnormality,Psychological Theories
+Psychological Theories,Psychodynamic Perspective,Behavioral and Cognitive Causes,Psychosocial and Cultural Factors
+Characteristics of Mood Disorders,Overwhelming Sadness or Dysphoria,Sometimes Euphoria,Episodes of Disorder,Severity of Episode,Recurrect Episode,Bizzare Behavior
+Severity of Episode,Mild
+Mild,Moderate
+Moderate,Severe
+Depressive Disorders,Major Depressive Disorder,Types of Depression,Dysthymic Disorder
+Types of Depression,Depressive Episodes involving melancholic features,Depressive episodes involving seasonal patterns
+Disorders Involving Alterations of Mood,Bipolar Disorder,Cyclothymic Disorder
+Bipolar Disorder,Manic Episode,Types of Bipolar Disorder,Course of Bipolar Disorder
+Types of Bipolar Disorder,Bipolar Disorder 1,Bipolar Disorder 2
+Causal Factors in Unipolar and Bipolar Disorders,Biological Perspectives,Psychological Perspectives,Behavioral and Cognitive Perspective,Socio Cultural and Interpersonal Perspectives
+Biological Perspectives,Genetics,Biochemical Factors
+Biochemical Factors,Shortage of Norepinephrine,Deficiency of Serotonin
+Psychological Perspectives,Psychodynamics Theories
+Treatment of Mood Disorders,Biological Treatment,Psychological Treatment
+Biological Treatment,Tricyclic Antidepressants(TCAS),Monoamine Oxidase Inhibitors(MAOIS),Selective Serotonin Reputake Inhibitors(SSRIS),Electro Convulsive Therapy(ECT)
+Psychological Treatment,Behavioral Approach,Cognitive Approach,Interpersonal Psychotherapy,Interpersonal and Social Rhythm Therapy (IPSRT),Socio-Cultural and Interpersonal Therapy
+Suicide,Causes of Suicide,Assessment and Treatment for Suicide
+Causes of Suicide,Biological Perspective on Suicide,Psychological Perspective on Suicide,Sociocultural Perspective on Suicide
+Assessment and Treatment for Suicide,Brent's model of treatment of adolescent suicide
+Brent's model of treatment of adolescent suicide,1. Treatment of Psychopathology,2. Reduction of cognitive distortion,3. Work improvement of social skills,4. Encouragement of problem solving,5. Regulation of affect and family intervention
+Personality Disorders,Nature of Personality Disorders,Classification of Personality Disorders
+Classification of Personality Disorders,Cluster A,Cluster B,Cluster C
+Cluster A,Paranoid Personality Disorder,Schizoid Personality Disorder,Schizotypical Personality Disorder
+Cluster B,Antisocial Personality Disorder,Borderline Personality Disorder,Histrionic Personality Disorder,Narcissistic Personality Disorder
+Cluster C,Avoidant Personality Disorder,Dependent Personality Disorder,Obsessive-Compulsive Personality Disorder
+Antisocial Personality Disorder,Deficient emotional arousal,Response Modulation Hypothesis
+Narcissistic Personality Disorder,Elitist Narcissist,Amorous Narcissist,Unprincipled Narcissist,Compensatory Narcissist
+Abnormal Sexual Behavior,Sexual Abuse,Paraphilias,Sexual Dysfunctions
+Sexual Abuse,Childhood Sexual Abuse
+Childhood Sexual Abuse,Consequences of Childhood Sexual Abuse
+Paraphilias,Pedophilia and Incest,Fetishism,Transvestic Disorder (Crossdressing),Sexual Sadism and Sexual Masochism,Frotteurism,Voyeurism,Exhibitionism,Causes of Paraphilias
+Treatment of Paraphilias,Biological Treatment of Paraphilias,Psychosocial Treatment of Paraphilias
+Psychosocial Treatment of Paraphilias,De-aversion Therapy,Cognitive Therapy for Paraphilias,Role play and Group Therapy
+Sexual Dysfunctions,Sexual Desire Disorders,Sexual Arousal Disorders,Orgasmic Disorders,Sexual Pain Disorders,Causes of Sexual Dysfunction,Treatments for Sexual Dysfunction
+Sexual Desire Disorders,Hypoactive Sexual Desire Disorder,Sexual Aversion Disorder
+Orgasmic Disorders,Inhibited Orgasm,Premature Orgasm
+Sexual Pain Disorders,Dyspareunia,Vaginismus
+Causes of Sexual Dysfunction,Biological Causes of Sexual Dysfunction,Psychological Causes of Sexual Dysfunction,Social and Inter-personal Causes of Sexual Dysfunction,Sexual problems across life span
+Biological Causes of Sexual Dysfunction,Disease,Hormones,Prescribed Drugs
+Psychological Causes of Sexual Dysfunction,Psychological Disorder,Attitude and Cognition about Sex,Performance Anxiety
+Social and Inter-personal Causes of Sexual Dysfunction,Problems in Relationship,Trauma
+Treatments for Sexual Dysfunction,Biological Therapy for Sexual Dysfunction,Sex Therapy for Sexual Dysfunction,Coupl Therapy for Sexual Dysfunction,Individual Psychotherapy for Sexual Dysfunction
+Gender Dysphoria/Gender Identity Disorder,Symptoms of GID,Causes of GID,Treatment of GID
+Symptoms of GID,Strong and persistent identification with the other sex,Discomfort with one's own gender,Disinterest in the opposite sex,Disturbed mental state
+Causes of GID,Biological Causes of GID,Psychological Causes of GID
+Biological Causes of GID,Prenatal Hormones
+Treatment of GID,Gender Reassignment Surgery,HRT
