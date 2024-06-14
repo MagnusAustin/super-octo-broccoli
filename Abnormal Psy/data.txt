@@ -1,63 +1,113 @@
-Schizophrenia,Positive Symptoms of Schizophrenia,Negative Symptoms of Schizophrenia,Other Symptoms of Schizophrenia,Sub-types of Schizophrenia
-Positive Symptoms of Schizophrenia,Delusions,Hallucinations,Disorganized Speech,Catatonic Behavior
-Delusions,Types of Delusions
-Types of Delusions,Persecutory Delusions,Delusions Reference,Grandiose Delusions,Delusion of Thought Insertions
-Hallucinations,Types of Hallucinations
-Types of Hallucinations,Auditory Hallucinations,Visual Hallucinations,Tactile Hallucinations,Somatic Hallucinations
-Somatic Hallucinations,Something happening from within
-Negative Symptoms of Schizophrenia,Flat Affect,Avolition,Alogia
-Alogia,Meaning of Alogia
-Meaning of Alogia,Poverty of Speech
-Other Symptoms of Schizophrenia,Inappropriate Affect,Anhedonia,Impaired Social Skills
-Sub-types of Schizophrenia,Paranoid Schizophrenia,Disorganized Schizophrenia,Catatonic Schizophrenia,Undifferentiated Schizophrenia,Residual Schizophrenia
-Other Psychotic Disorders in the Schizophrenia Spectrum Disorders,Schizophreniform Disorder,Schizoaffective Disorder,Delusional Disorder,Shared Psychotic Disorder
-Delusional Disorder,Persecutory Delusion,Grandiose Delusion,Jealous Type of Delusion,Erotomanic Type of Delusion,Somatic Delusion
-Risks and Casual Factors of Schizophrenia,Genetic Factors,Neurodevelopmental Perspective,Neurochemistry,Structural Abnormality,Psychological Theories
-Psychological Theories,Psychodynamic Perspective,Behavioral and Cognitive Causes,Psychosocial and Cultural Factors
-Characteristics of Mood Disorders,Overwhelming Sadness or Dysphoria,Sometimes Euphoria,Episodes of Disorder,Severity of Episode,Recurrect Episode,Bizzare Behavior
-Severity of Episode,Mild
-Mild,Moderate
-Moderate,Severe
-Depressive Disorders,Major Depressive Disorder,Types of Depression,Dysthymic Disorder
-Types of Depression,Depressive Episodes involving melancholic features,Depressive episodes involving seasonal patterns
-Disorders Involving Alterations of Mood,Bipolar Disorder,Cyclothymic Disorder
-Bipolar Disorder,Manic Episode,Types of Bipolar Disorder,Course of Bipolar Disorder
-Types of Bipolar Disorder,Bipolar Disorder 1,Bipolar Disorder 2
-Causal Factors in Unipolar and Bipolar Disorders,Biological Perspectives,Psychological Perspectives,Behavioral and Cognitive Perspective,Socio Cultural and Interpersonal Perspectives
-Biological Perspectives,Genetics,Biochemical Factors
-Biochemical Factors,Shortage of Norepinephrine,Deficiency of Serotonin
-Psychological Perspectives,Psychodynamics Theories
-Treatment of Mood Disorders,Biological Treatment,Psychological Treatment
-Biological Treatment,Tricyclic Antidepressants(TCAS),Monoamine Oxidase Inhibitors(MAOIS),Selective Serotonin Reputake Inhibitors(SSRIS),Electro Convulsive Therapy(ECT)
-Psychological Treatment,Behavioral Approach,Cognitive Approach,Interpersonal Psychotherapy,Interpersonal and Social Rhythm Therapy (IPSRT),Socio-Cultural and Interpersonal Therapy
-Suicide,Causes of Suicide,Assessment and Treatment for Suicide
-Causes of Suicide,Biological Perspective on Suicide,Psychological Perspective on Suicide,Sociocultural Perspective on Suicide
-Assessment and Treatment for Suicide,Brent's model of treatment of adolescent suicide
-Brent's model of treatment of adolescent suicide,1. Treatment of Psychopathology,2. Reduction of cognitive distortion,3. Work improvement of social skills,4. Encouragement of problem solving,5. Regulation of affect and family intervention
-Personality Disorders,Nature of Personality Disorders,Classification of Personality Disorders
-Classification of Personality Disorders,Cluster A,Cluster B,Cluster C
-Cluster A,Paranoid Personality Disorder,Schizoid Personality Disorder,Schizotypical Personality Disorder
-Cluster B,Antisocial Personality Disorder,Borderline Personality Disorder,Histrionic Personality Disorder,Narcissistic Personality Disorder
-Cluster C,Avoidant Personality Disorder,Dependent Personality Disorder,Obsessive-Compulsive Personality Disorder
-Antisocial Personality Disorder,Deficient emotional arousal,Response Modulation Hypothesis
-Narcissistic Personality Disorder,Elitist Narcissist,Amorous Narcissist,Unprincipled Narcissist,Compensatory Narcissist
-Abnormal Sexual Behavior,Sexual Abuse,Paraphilias,Sexual Dysfunctions
-Sexual Abuse,Childhood Sexual Abuse
-Childhood Sexual Abuse,Consequences of Childhood Sexual Abuse
-Paraphilias,Pedophilia and Incest,Fetishism,Transvestic Disorder (Crossdressing),Sexual Sadism and Sexual Masochism,Frotteurism,Voyeurism,Exhibitionism,Causes of Paraphilias
-Treatment of Paraphilias,Biological Treatment of Paraphilias,Psychosocial Treatment of Paraphilias
-Psychosocial Treatment of Paraphilias,De-aversion Therapy,Cognitive Therapy for Paraphilias,Role play and Group Therapy
-Sexual Dysfunctions,Sexual Desire Disorders,Sexual Arousal Disorders,Orgasmic Disorders,Sexual Pain Disorders,Causes of Sexual Dysfunction,Treatments for Sexual Dysfunction
-Sexual Desire Disorders,Hypoactive Sexual Desire Disorder,Sexual Aversion Disorder
-Orgasmic Disorders,Inhibited Orgasm,Premature Orgasm
-Sexual Pain Disorders,Dyspareunia,Vaginismus
-Causes of Sexual Dysfunction,Biological Causes of Sexual Dysfunction,Psychological Causes of Sexual Dysfunction,Social and Inter-personal Causes of Sexual Dysfunction,Sexual problems across life span
-Biological Causes of Sexual Dysfunction,Disease,Hormones,Prescribed Drugs
-Psychological Causes of Sexual Dysfunction,Psychological Disorder,Attitude and Cognition about Sex,Performance Anxiety
-Social and Inter-personal Causes of Sexual Dysfunction,Problems in Relationship,Trauma
-Treatments for Sexual Dysfunction,Biological Therapy for Sexual Dysfunction,Sex Therapy for Sexual Dysfunction,Coupl Therapy for Sexual Dysfunction,Individual Psychotherapy for Sexual Dysfunction
-Gender Dysphoria/Gender Identity Disorder,Symptoms of GID,Causes of GID,Treatment of GID
-Symptoms of GID,Strong and persistent identification with the other sex,Discomfort with one's own gender,Disinterest in the opposite sex,Disturbed mental state
-Causes of GID,Biological Causes of GID,Psychological Causes of GID
-Biological Causes of GID,Prenatal Hormones
-Treatment of GID,Gender Reassignment Surgery,HRT
+To develop a comprehensive personal finance dashboard, we need to address several key areas:
+
+1. **Data Aggregation**:
+    - Consolidate data from various banks, credit cards, and investment platforms.
+    - Ensure secure data connections using APIs and encryption.
+
+2. **User Interface (UI)**:
+    - Create a user-friendly dashboard with clear navigation.
+    - Design visualizations (graphs, charts) for financial insights.
+
+3. **Features**:
+    - Overview of total assets and liabilities.
+    - Detailed tracking of spending and savings.
+    - Budgeting tools with customizable categories.
+    - Investment tracking with performance metrics.
+    - Alerts and notifications for budget limits, bill payments, and financial goals.
+
+4. **Insights and Recommendations**:
+    - Provide insights into spending habits and patterns.
+    - Offer personalized financial advice and planning tools.
+
+5. **Security**:
+    - Ensure user data is encrypted and securely stored.
+    - Implement multi-factor authentication for user login.
+
+Here is a step-by-step plan to develop the personal finance dashboard:
+
+### Step 1: Data Aggregation
+
+1. **API Integration**:
+    - Use APIs provided by banks, credit cards, and investment platforms to fetch financial data.
+    - Implement OAuth for secure authentication.
+
+2. **Data Normalization**:
+    - Standardize data from different sources into a common format.
+    - Handle data discrepancies and errors gracefully.
+
+### Step 2: User Interface Design
+
+1. **Dashboard Layout**:
+    - Design a clean and intuitive dashboard layout.
+    - Include sections for overview, transactions, budgeting, and investments.
+
+2. **Visualizations**:
+    - Use charts and graphs to represent data visually (e.g., pie charts for spending categories, line graphs for investment performance).
+
+3. **Responsive Design**:
+    - Ensure the dashboard is accessible on both desktop and mobile devices.
+
+### Step 3: Core Features Implementation
+
+1. **Overview Section**:
+    - Display total assets, liabilities, net worth, and account balances.
+
+2. **Transactions**:
+    - Show recent transactions with filtering options (by date, category, account).
+
+3. **Budgeting Tools**:
+    - Allow users to set monthly budgets for different categories.
+    - Track actual spending against the budget and provide visual feedback.
+
+4. **Investment Tracking**:
+    - Show portfolio performance, asset allocation, and individual investment details.
+
+5. **Alerts and Notifications**:
+    - Set up notifications for budget limits, upcoming bill payments, and goal milestones.
+
+### Step 4: Insights and Recommendations
+
+1. **Spending Analysis**:
+    - Analyze spending patterns and identify areas for potential savings.
+
+2. **Financial Goals**:
+    - Allow users to set financial goals (e.g., saving for a vacation, paying off debt).
+    - Track progress towards these goals and suggest adjustments.
+
+3. **Personalized Advice**:
+    - Provide tailored financial advice based on user data and goals.
+
+### Step 5: Security and Privacy
+
+1. **Data Encryption**:
+    - Encrypt user data both in transit and at rest.
+
+2. **Authentication**:
+    - Implement multi-factor authentication to enhance security.
+
+3. **Privacy Policies**:
+    - Clearly communicate data usage policies and ensure compliance with relevant regulations (e.g., GDPR, CCPA).
+
+### Step 6: Testing and Deployment
+
+1. **Testing**:
+    - Conduct thorough testing to ensure all features work as expected.
+    - Perform security testing to identify and fix vulnerabilities.
+
+2. **User Feedback**:
+    - Release a beta version to gather user feedback.
+    - Make improvements based on feedback.
+
+3. **Deployment**:
+    - Deploy the dashboard to a secure and scalable hosting environment.
+
+### Step 7: Maintenance and Updates
+
+1. **Regular Updates**:
+    - Continuously update the dashboard with new features and improvements.
+    - Ensure compatibility with updates to APIs and financial data sources.
+
+2. **User Support**:
+    - Provide user support for troubleshooting and guidance.
+
+By following these steps, we can create a robust personal finance dashboard that helps users gain better control over their finances through a comprehensive, user-friendly interface.
